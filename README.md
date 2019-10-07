@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors
-A game of Client-Server Rock Paper Scissor
+Rock Paper Scissors game created by Anirekh Jain & James MacPhee
+
